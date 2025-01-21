@@ -1,109 +1,38 @@
-# Kämppis, sovellus kämppisten etsimiseen 
+# Kämppis
 
-Mobiilisovellus, joka yhdistää kämppiksiä etsiviä ihmisiä 
+## Mikä _Kämppis_?
+_Kämppis_ on mobiilisovellus, joka yhdistää kämppiksiä etsivät ihmiset toistensa kanssa.
 
-Toimii Tinderistä tutulla swaippauksella 
+## Miksi _Kämppis_?
+_Kämppis_ pyrkii vaikuttamaan positiivisesti käyttäjiensä elämään.
 
-Entä he, jotka haluavat perustaa kimppakämpän yhdessä? TÄMÄ LÄHTÖKOHDAKSI 
+Suomen punaisen ristin teettämän [yksinäisyysbarometrin](https://www.punainenristi.fi/uutiset/2023/yksinaisyys-koskettaa-yha-useampaa-suomessa/) mukaan kolmannes 15–24-vuotiaista nuorista tuntee itsensä yksinäiseksi kuukausittain. Lisäksi inflaatio, asuinkustannusten nousu sekä hallituksen kaavailemat muutokset opiskelijoiden asumistukeen tekevät kimppa-asumisesta myös taloudellisesti houkuttelevan vaihtoehdon.
 
-Millainen on profiilin ensinäkymä? 
+_Kämppis_ vastaa tähän haasteeseen tarjoamalla kimppa-asumista harkitseville alustan löytää toisensa.
 
-Millainen on käyttäjän profiili? Millainen on kämpän profiili? 
+## Miten _Kämppis_ toimii?
+Kimppa-asumisesta kiinnosunut käyttä luo profiilin _Kämppikseen_. Käyttäjä pääsee selaamaan muiden rekisteröityneiden käyttäjien profiileja ja halutessaan asettaa kriteerejä, joiden mukaan _Kämppis_ etsii ja näyttää käyttäjälle muiden käyttäjien profiileja. Kriteereinä voi olla esim. kämppäkaverin toivottu sukupuoli, elämäntyyli, kimppakämpän sijainti, lemmikit jne. Käyttäjä voi ilmaista, mikäli haluaa saada tietää jostakin käyttäjästä enemmän. Mikäli kaksi käyttäjää haluaa tutustua toisiinsa mahdollisina tulevina kämppäkavereina, avaa _Kämppis_ heille chat-mahdollisuuden.
 
-Sliderit hakuehdoille? Bileitä/rauhaa, mikä alue, lemmikkejä jne jne. Mätsääkö kyllä/ei/ei väliä 
+_Kämppis_ tarjoaa kimppa-asumisesta kiinnostuneille käyttäjille vain mahdollisuuden löytää toisiaan ja tutustua toisiinsa. _Kämppis_ ei sisällä ominaisuuksia esimerkiksi kimppa-asunnon etsimiseen tai muihin asumiseen liittyviin käytännön seikkoihin.
 
-Profiileja myös kimppakämpille? Ei vain kimppakämpän asukkaille? 
+## Teknologiat
+_Kämppis_ on rakennettu käyttämällä seuraavia teknologioita:
+- back-end: Kotlin, Spring Boot (Maven)
+- mobiilisovellus: React Native, TypeScript
+- tietokanta: PostgreSQL
+- julkaisu: ?
 
-Epäaktiivisille käyttäjille (ei käyttänyt esim. 2 kuukauteen?) viesti ja kysymys haluaako jatkaa näkyvyyttä 
+Tutustu myös projektin repositorioihin:
+- back-end: https://github.com/HH-Nat20/kamppis-server
+- mobiilisovellus: https://github.com/HH-Nat20/kamppis-app
 
-Käyttöehdot 
+## Käyttäjätarinat
 
+## Vaatimukset
+
+## Käyttöehdot & tietoturva
 Tietoturva, tietosuoja, GDPR, tietokannan suojaus 
 
-Kaupallistaminen 
-
-Paalupaikkojen myynti 
-
-Mainokset 
-
-Eri tasoiset jäsenyydet 
-
-Näe kaikki käyttäjät jotka on swaipannut käyttäjän oikealle 
-
-Myynti vuokranantajayrityksille? 
-
-Match vuokranantajan kanssa vaan chatin sijasta asuntohakemuksen 
-
-Tekoäly: 
-
-Analysoi mätsääviä profiileja, ja antaa käyttäjille vinkkejä profiilin muokkaamiseen tämän pohjalta 
-
-Esim. ”Tupakoimattomat käyttäjät löytävät asunnon 80 % nopeammin” 
-
-”80 % kämppiksistä etsii tupakoimattomia kämppiksiä” 
-
-à Analytiikka myös ilman tekoälyä? 
-
-Miksi? 
-
-Yksinäisyys kasvussa Suomessa 
-
-Asuinkustannukset kasvussa Suomessa 
-
-Hallitus alentaa opiskelijoiden asumistukea à käytännössä tukee kimppakämppäasumista 
-
- 
-
-Teknologiat: 
-
-Back-end: Kotlin, Spring Boot + Maven, OpenAuth, PostgreSQL 
-
-App: React Native, TypeScript 
-
-Ehkä? 
-
-Web front-end: React 
-
- 
-
-GitHub: 
-
-Projektin laadinta tiistaina 
-
-GitHub projects taulu 
-
-GitHub organisaatio? 
-
-GitHub actions? 
-
-GitHubiin repot 
-
-1) back/server 
-
-2) mobiiliapp 
-
- 
-
-Miten jatketaan? 
-
-Mitä tietoa tarvitaan? Millainen tietokantarakenne? 
-
-Käyttöliittymä-mockup 
-
-Vaatimusmäärittely 
-
-Käyttäjätarinat, vaatimukset, käyttäjätasot 
-
-Vaatimusten dokumentaatio ja jäljitettävyys 
-
- 
-
-Toimintatapoja 
-
-Jatkuva testaus ja testien kirjoittaminen 
-
-GitHub projects-taulun päivittäminen 
-
-Julkaisutapa? 
+## Ota yhteyttä
 
  
