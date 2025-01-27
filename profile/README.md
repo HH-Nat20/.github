@@ -26,6 +26,8 @@ Tutustu myös projektin repositorioihin:
 - back-end: https://github.com/HH-Nat20/kamppis-server
 - mobiilisovellus: https://github.com/HH-Nat20/kamppis-app
 
+<img src="https://github.com/HH-Nat20/.github/blob/main/Nat20%20K%C3%A4mppis-sovelluksen%20arkkitehtuuri.png" alt="Kämppis-sovelluksen arkkitehtuuri" style="width:60%; height:auto;">
+
 ## Käyttäjätarinat
 
 ## Vaatimukset
