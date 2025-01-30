@@ -42,34 +42,15 @@ _Näiden käyttäjätarinoiden toteutus muodostaa tuotteen demoversion._
 
 Title | Description | Acceptance Criteria
 --- | --- | ---
-1. Käyttäjäprofiilin luominen ja omien tietojen syöttäminen | **Käyttäjänä** haluan luoda henkilökohtaisen profiilin, jotta muut käyttäjät näkevät, millainen olen. Profiiliin pitää voida liittää kuvia. | Käyttäjän tulee voida syöttää tietoja itsestään lomakkeeseen, kuten esimerkiksi
-- puhelinnumero (unique)
-- ikä
-- sukupuoli
-- opiskelut
-- elämäntyyli, esim: siisteys,	vuorokausirytmi, juhliminen, tupakointi
-- kiinnostuksen kohteet
-- kämpän haluttu sijainti
-- mahdolliset lemmikit tai allergiat
-- kuvat
+1. Käyttäjäprofiilin luominen ja omien tietojen syöttäminen | **Käyttäjänä** haluan luoda henkilökohtaisen profiilin, jotta muut käyttäjät näkevät, millainen olen. Profiiliin pitää voida liittää kuvia. | Käyttäjän tulee voida syöttää tietoja itsestään lomakkeeseen, kuten esimerkiksi<br>- puhelinnumero (unique)<br>- ikä<br>- sukupuoli<br>- opiskelut<br>- elämäntyyli, esim: siisteys,	vuorokausirytmi, juhliminen, tupakointi<br>- kiinnostuksen kohteet<br>- kämpän haluttu sijainti<br>- mahdolliset lemmikit tai allergiat<br>- kuvat
 
 Title | Description | Acceptance Criteria | Resources
 --- | --- | --- | ---
-2. Kriteerien mukainen kämppis-profiilien haku | **Käyttäjänä** haluan asettaa hakukriteereitä (esim. sukupuoli, sijainti, elämäntyyli, lemmikit), jotta näen vain profiilit, jotka vastaavat tarpeitani. Jos vastaavia tarpeita on paljon, profiili erottuu muista (esim. ”Supersopiva” tms. tagi). | Sovellus tarjoaa käyttäjälle helppokäyttöisen hakutoiminnon, jossa voidaan asettaa suodattimia vastakämppikselle, kuten:
-- sukupuoli
-- ikähaarukka
-- elämäntyyli
-- kämpän sijainti
-- kipuraja omalle osuudelle kämpän vuokrasta
-- kämppisten määrä | [Tähän mockup-kuva]
+2. Kriteerien mukainen kämppis-profiilien haku | **Käyttäjänä** haluan asettaa hakukriteereitä (esim. sukupuoli, sijainti, elämäntyyli, lemmikit), jotta näen vain profiilit, jotka vastaavat tarpeitani. Jos vastaavia tarpeita on paljon, profiili erottuu muista (esim. ”Supersopiva” tms. tagi). | Sovellus tarjoaa käyttäjälle helppokäyttöisen hakutoiminnon, jossa voidaan asettaa suodattimia vastakämppikselle, kuten:<br>- sukupuoli<br>- ikähaarukka<br>- elämäntyyli<br>- kämpän sijainti<br>- kipuraja omalle osuudelle kämpän vuokrasta<br>- kämppisten määrä | [Tähän mockup-kuva]
 
 Title | Description | Acceptance Criteria | Resources
 --- | --- | --- | ---
-3. Profiilien selaaminen | **Käyttäjänä** haluan helposti selata muiden käyttäjien profiilien tärkeimpiä tietoja, jotta voin nopeasti arvioida, sopisimmeko kämppiksiksi. | Ensinäkymä profiilista näyttää kuvan ja tärkeimmät tiedot, kuten
-- nimi
-- ikä
-- sijainti
-- lyhyt teaser-teksti itsestään | [Tähän mockup-kuva]
+3. Profiilien selaaminen | **Käyttäjänä** haluan helposti selata muiden käyttäjien profiilien tärkeimpiä tietoja, jotta voin nopeasti arvioida, sopisimmeko kämppiksiksi. | Ensinäkymä profiilista näyttää kuvan ja tärkeimmät tiedot, kuten<br>- nimi<br>- ikä<br>- sijainti<br>- lyhyt teaser-teksti itsestään | [Tähän mockup-kuva]
 
 Title | Description | Acceptance Criteria | Resources
 --- | --- | --- | ---
@@ -133,29 +114,15 @@ Title | Description | Acceptance Criteria
 
 Title | Description | Acceptance Criteria
 --- | --- | ---
-17. Käyttäjän shadowbannaaminen | **Adminina** haluan pystyä estämään häiritsevien käyttäjien näkyvyyden muille käyttäjille ilman, että he huomaavat sitä, jotta voin suojella yhteisöä ja estää väärinkäytöksiä tehokkaasti. | 
-- Shadowbannattu käyttäjä voi edelleen kirjautua, selata profiileja ja "swaipata", mutta hänen profiiliaan ei näytetä muille käyttäjille, eikä hän saa yhteyksiä tai mätsäyksiä.
-- Admin voi asettaa shadowbannauksen manuaalisesti tai automaattisesti raporttien ja algoritmien perusteella.
-- Shadowbannaus ei näy käyttäjälle, eikä järjestelmä anna siitä mitään ilmoitusta.
+17. Käyttäjän shadowbannaaminen | **Adminina** haluan pystyä estämään häiritsevien käyttäjien näkyvyyden muille käyttäjille ilman, että he huomaavat sitä, jotta voin suojella yhteisöä ja estää väärinkäytöksiä tehokkaasti. | <br>- Shadowbannattu käyttäjä voi edelleen kirjautua, selata profiileja ja "swaipata", mutta hänen profiiliaan ei näytetä muille käyttäjille, eikä hän saa yhteyksiä tai mätsäyksiä.<br>- Admin voi asettaa shadowbannauksen manuaalisesti tai automaattisesti raporttien ja algoritmien perusteella.<br>- Shadowbannaus ei näy käyttäjälle, eikä järjestelmä anna siitä mitään ilmoitusta.
 
 Title | Description | Acceptance Criteria
 --- | --- | ---
-18. Ilmiantamisen automaattinen tarkastus | **Adminina** haluan, että järjestelmä merkitsee automaattisesti ilmiannetut viestit asiattomiksi tai ei-asiattomiksi, jotta voin priorisoida tarkistettavat tapaukset. | 
-- Järjestelmä analysoi ilmiannot automaattisesti, esimerkiksi syöttämällä ilmiannettu viesti tai profiili AI:lle.
-- Jos järjestelmä tunnistaa viestin asiattomaksi, sen lähettäjä asetetaan väliaikaiseen banniin, jolloin hän ei voi käyttää sovellusta ennen ylläpitäjän tarkistusta.
-- Väliaikaisen bannin aikana käyttäjälle näytetään viesti, jossa kerrotaan, että hänen viestinsä on ilmoitettu asiattomaksi.
-- Admin tarkistaa tapauksen mahdollisimman pian. Jos admin toteaa viestin olleen asiattoman, bannaus pysyy voimassa ja käyttäjälle ilmoitetaan tuomion syy. Jos viesti osoittautuu vääräksi hälytykseksi, bannaus poistetaan ja käyttäjälle ilmoitetaan päätöksestä.
+18. Ilmiantamisen automaattinen tarkastus | **Adminina** haluan, että järjestelmä merkitsee automaattisesti ilmiannetut viestit asiattomiksi tai ei-asiattomiksi, jotta voin priorisoida tarkistettavat tapaukset. | <br>- Järjestelmä analysoi ilmiannot automaattisesti, esimerkiksi syöttämällä ilmiannettu viesti tai profiili AI:lle.<br>- Jos järjestelmä tunnistaa viestin asiattomaksi, sen lähettäjä asetetaan väliaikaiseen banniin, jolloin hän ei voi käyttää sovellusta ennen ylläpitäjän tarkistusta.<br>- Väliaikaisen bannin aikana käyttäjälle näytetään viesti, jossa kerrotaan, että hänen viestinsä on ilmoitettu asiattomaksi.<br>- Admin tarkistaa tapauksen mahdollisimman pian. Jos admin toteaa viestin olleen asiattoman, bannaus pysyy voimassa ja käyttäjälle ilmoitetaan tuomion syy. Jos viesti osoittautuu vääräksi hälytykseksi, bannaus poistetaan ja käyttäjälle ilmoitetaan päätöksestä.
 
 Title | Description | Acceptance Criteria
 --- | --- | ---
-19. Sokkomätsi-toiminto | **Käyttäjänä** haluan yrittää löytää kämppiksen ilman rajoitteita tai hakukriteereitä ja antaa sattuman ratkaista. | 
-- Sokkomätsi-toiminto on valittavissa erillisenä ominaisuutena sovelluksen sisällä.
-- Käyttäjä voi painaa "Sokkomätsi"-painiketta ja odottaa, että järjestelmä yhdistää hänet satunnaiseen toiseen käyttäjään, joka on myös käyttänyt sokkomätsiä.
-- Sokkomätsi ei huomioi hakukriteerejä tai käyttäjien profiilissa ilmoitettuja toiveita.
-- Kun sokkomätsi onnistuu:
-- Molemmat käyttäjät saavat ilmoituksen ja pääsevät keskustelemaan toistensa kanssa chatin välityksellä.
-- Molemmille näytetään perustiedot toisesta käyttäjästä (esim. nimi, ikä ja sijainti, jos käyttäjä on sallinut niiden jaon).
-- Jos sokkomätsi ei löydä paria kohtuullisessa ajassa (esim. 1 minuutti), käyttäjälle ilmoitetaan, ettei muita sokkomätsi-käyttäjiä ole juuri nyt saatavilla.
+19. Sokkomätsi-toiminto | **Käyttäjänä** haluan yrittää löytää kämppiksen ilman rajoitteita tai hakukriteereitä ja antaa sattuman ratkaista. | <br>- Sokkomätsi-toiminto on valittavissa erillisenä ominaisuutena sovelluksen sisällä.<br>- Käyttäjä voi painaa "Sokkomätsi"-painiketta ja odottaa, että järjestelmä yhdistää hänet satunnaiseen toiseen käyttäjään, joka on myös käyttänyt sokkomätsiä.<br>- Sokkomätsi ei huomioi hakukriteerejä tai käyttäjien profiilissa ilmoitettuja toiveita.<br>- Kun sokkomätsi onnistuu:<br>- Molemmat käyttäjät saavat ilmoituksen ja pääsevät keskustelemaan toistensa kanssa chatin välityksellä.<br>- Molemmille näytetään perustiedot toisesta käyttäjästä (esim. nimi, ikä ja sijainti, jos käyttäjä on sallinut niiden jaon).<br>- Jos sokkomätsi ei löydä paria kohtuullisessa ajassa (esim. 1 minuutti), käyttäjälle ilmoitetaan, ettei muita sokkomätsi-käyttäjiä ole juuri nyt saatavilla.
 
 Title | Description | Acceptance Criteria
 --- | --- | ---
