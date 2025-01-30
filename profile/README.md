@@ -31,102 +31,175 @@ Tutustu myös projektin repositorioihin:
 ## Käyttäjätarinat
 
 ### Feature Epic
-
-Title | Description
---- | ---
-Kämppis-sovellus yhdistää kämppistä etsivät käyttäjät | “Kimppa-asumisesta kiinnostuneena **käyttäjänä** haluan alustan, jolla voin helposti ja turvallisesti löytää ja tutustua potentiaalisiin kämppäkavereihin.”
+**Title**: Kämppis-sovellus yhdistää kämppistä etsivät käyttäjät<br>
+**Description**: “Kimppa-asumisesta kiinnostuneena _käyttäjänä_ haluan alustan, jolla voin helposti ja turvallisesti löytää ja tutustua potentiaalisiin kämppäkavereihin.”
 
 ### Välttämättömät vaatimukset
-
 _Näiden käyttäjätarinoiden toteutus muodostaa tuotteen demoversion._
 
-Title | Description | Acceptance Criteria
---- | --- | ---
-1. Käyttäjäprofiilin luominen ja omien tietojen syöttäminen | **Käyttäjänä** haluan luoda henkilökohtaisen profiilin, jotta muut käyttäjät näkevät, millainen olen. Profiiliin pitää voida liittää kuvia. | Käyttäjän tulee voida syöttää tietoja itsestään lomakkeeseen, kuten esimerkiksi<br>- puhelinnumero (unique)<br>- ikä<br>- sukupuoli<br>- opiskelut<br>- elämäntyyli, esim: siisteys,	vuorokausirytmi, juhliminen, tupakointi<br>- kiinnostuksen kohteet<br>- kämpän haluttu sijainti<br>- mahdolliset lemmikit tai allergiat<br>- kuvat
+**Title**:	1. Käyttäjäprofiilin luominen ja omien tietojen syöttäminen<br>
+**Description**:	Käyttäjänä haluan luoda henkilökohtaisen profiilin, jotta muut käyttäjät näkevät, millainen olen. Profiiliin pitää voida liittää kuvia.<br>
+**Acceptance Criteria**:	Käyttäjän tulee voida syöttää tietoja itsestään lomakkeeseen, kuten esimerkiksi
+- puhelinnumero (unique)
+- ikä
+- sukupuoli
+- opiskelut
+- elämäntyyli, esim: siisteys, vuorokausirytmi, juhliminen, tupakointi
+- kiinnostuksen kohteet
+- kämpän haluttu sijainti
+- mahdolliset lemmikit tai allergiat
+- kuvat
 
-Title | Description | Acceptance Criteria | Resources
---- | --- | --- | ---
-2. Kriteerien mukainen kämppis-profiilien haku | **Käyttäjänä** haluan asettaa hakukriteereitä (esim. sukupuoli, sijainti, elämäntyyli, lemmikit), jotta näen vain profiilit, jotka vastaavat tarpeitani. Jos vastaavia tarpeita on paljon, profiili erottuu muista (esim. ”Supersopiva” tms. tagi). | Sovellus tarjoaa käyttäjälle helppokäyttöisen hakutoiminnon, jossa voidaan asettaa suodattimia vastakämppikselle, kuten:<br>- sukupuoli<br>- ikähaarukka<br>- elämäntyyli<br>- kämpän sijainti<br>- kipuraja omalle osuudelle kämpän vuokrasta<br>- kämppisten määrä | [Tähän mockup-kuva]
+---
 
-Title | Description | Acceptance Criteria | Resources
---- | --- | --- | ---
-3. Profiilien selaaminen | **Käyttäjänä** haluan helposti selata muiden käyttäjien profiilien tärkeimpiä tietoja, jotta voin nopeasti arvioida, sopisimmeko kämppiksiksi. | Ensinäkymä profiilista näyttää kuvan ja tärkeimmät tiedot, kuten<br>- nimi<br>- ikä<br>- sijainti<br>- lyhyt teaser-teksti itsestään | [Tähän mockup-kuva]
+**Title**:	2. Kriteerien mukainen kämppis-profiilien haku<br>
+**Description**:	Käyttäjänä haluan asettaa hakukriteereitä (esim. sukupuoli, sijainti, elämäntyyli, lemmikit), jotta näen vain profiilit, jotka vastaavat tarpeitani. Jos vastaavia tarpeita on paljon, profiili erottuu muista (esim. ”Supersopiva” tms. tagi).<br>
+**Acceptance Criteria**:	Sovellus tarjoaa käyttäjälle helppokäyttöisen hakutoiminnon, jossa voidaan asettaa suodattimia vastakämppikselle, kuten:
+- sukupuoli
+- ikähaarukka
+- elämäntyyli
+- kämpän sijainti
+- kipuraja omalle osuudelle kämpän vuokrasta
+- kämppisten määrä<br>
+**Resources**:	[Tähän mockup-kuva]
 
-Title | Description | Acceptance Criteria | Resources
---- | --- | --- | ---
-4. Profiilin tarkempi kuvaus | **Käyttäjänä** haluan nähdä valitun käyttäjän koko profiilin, jotta voin arvioida, sopisimmeko kämppiksiksi. | Profiilin näkymä on selkeä ja sisältää olennaiset tiedot (esim. nimi, ikä, elämäntyyli, sijainti). | [Tähän mockup-kuva]
+---
 
-Title | Description | Acceptance Criteria | Resources
---- | --- | --- | ---
-5. Kiinnostuksen ilmaiseminen | **Käyttäjänä** haluan ilmaista kiinnostukseni tiettyä profiilikorttia kohtaan, jotta voin saada mahdollisuuden tutustua tarkemmin. | Käyttäjä voi pyyhkäistä profiilikorttia oikealle tai vasemmalle. Jos molemmat osapuolet ovat pyyhkäisseet toistensa kortteja oikealle, luo sovellus yhteyden. Jos jompikumpi on pyyhkäissyt vasemmalle, sovellus ei luo yhteyttä. | [Tähän mockup-kuva]
+**Title**: 3. Profiilien selaaminen<br>
+**Description**: Käyttäjänä haluan helposti selata muiden käyttäjien profiilien tärkeimpiä tietoja, jotta voin nopeasti arvioida, sopisimmeko kämppiksiksi.<br>
+**Acceptance Criteria**: Ensinäkymä profiilista näyttää kuvan ja tärkeimmät tiedot, kuten
+- nimi
+- ikä
+- sijainti
+- lyhyt teaser-teksti itsestään<br>
+**Resources**: [Tähän mockup-kuva]
 
-Title | Description | Acceptance Criteria | Resources
---- | --- | --- | ---
-6. Chat-ominaisuus | **Käyttäjänä** haluan chatata potentiaalisen kämppäkaverin kanssa, jotta voimme keskustella tarkemmin ja selvittää, sopisimmeko yhteen. Kumpi tahansa osapuoli voi lopettaa chatin kesken milloin tahansa. | Chat avautuu vain, jos molemmat käyttäjät ovat ilmaisseet kiinnostuksensa toisiinsa. Chattiin voi syöttää tekstiä, emojeita ja GIF-animaatioita. | [Tähän mockup-kuva]
+---
+
+**Title**:	4. Profiilin tarkempi kuvaus<br>
+**Description**:	Käyttäjänä haluan nähdä valitun käyttäjän koko profiilin, jotta voin arvioida, sopisimmeko kämppiksiksi.<br>
+**Acceptance Criteria**:	Profiilin näkymä on selkeä ja sisältää olennaiset tiedot (esim. nimi, ikä, elämäntyyli, sijainti).<br>
+**Resources**: [Tähän mockup-kuva]
+
+---
+
+**Title**:	5. Kiinnostuksen ilmaiseminen<br>
+**Description**:	Käyttäjänä haluan ilmaista kiinnostukseni tiettyä profiilikorttia kohtaan, jotta voin saada mahdollisuuden tutustua tarkemmin.<br>
+**Acceptance Criteria**:	Käyttäjä voi pyyhkäistä profiilikorttia oikealle tai vasemmalle. Jos molemmat osapuolet ovat pyyhkäisseet toistensa kortteja oikealle, luo sovellus yhteyden. Jos jompikumpi on pyyhkäissyt vasemmalle, sovellus ei luo yhteyttä.<br>
+**Resources**: [Tähän mockup-kuva]
+
+---
+
+**Title**:	6. Chat-ominaisuus<br>
+**Description**	Käyttäjänä haluan chatata potentiaalisen kämppäkaverin kanssa, jotta voimme keskustella tarkemmin ja selvittää, sopisimmeko yhteen. Kumpi tahansa osapuoli voi lopettaa chatin kesken milloin tahansa.<br>
+**Acceptance Criteria**:	Chat avautuu vain, jos molemmat käyttäjät ovat ilmaisseet kiinnostuksensa toisiinsa. Chattiin voi syöttää tekstiä, emojeita ja GIF-animaatioita.<br>
+**Resources**: [Tähän mockup-kuva]
 
 ### Hyödylliset vaatimukset
 
 _Näiden käyttäjätarinoiden sekä välttämättömien käyttäjätarinoiden toteutus muodostaa tuotteen valmiin version._
 
-Title | Description | Acceptance Criteria
---- | --- | ---
-7. Sisäänkirjautuminen | **Käyttäjänä** haluan kirjautua sisään olemassa olevalle profiilille. | Käyttäjä voi kirjautua takaisin olemassa olevalle tilille OAuthin avulla. Käyttäjä ei voi kirjautua muulle kuin omalle profiililleen. Käyttäjää ei kirjata automaattisesti sisään, jos hän on aiemmin kirjautunut ulos.
+**Title**:	7. Sisäänkirjautuminen<br>
+**Description**:	Käyttäjänä haluan kirjautua sisään olemassa olevalle profiilille.<br>
+**Acceptance Criteria**:	Käyttäjä voi kirjautua takaisin olemassa olevalle tilille OAuthin avulla. Käyttäjä ei voi kirjautua muulle kuin omalle profiililleen. Käyttäjää ei kirjata automaattisesti sisään, jos hän on aiemmin kirjautunut ulos.
 
-Title | Description | Acceptance Criteria
---- | --- | ---
-8. Käyttäjäprofiilin omien tietojen muokkaaminen | **Käyttäjänä** haluan muokata henkilökohtaisen profiilini tietoja, jotta omat tietoni ovat ajan tasalla ja muut käyttäjät saavat minusta realistisen kuvan. | Käyttäjän tulee voida muokata omia tietojaan oman profiilinsa kautta sekä tallentaa muokatut tiedot.
+---
 
-Title | Description | Acceptance Criteria
---- | --- | ---
-9. Kopio omista tiedoista | **Käyttäjänä** haluan pyytää kopiota omista tiedoistani käyttäjäprofiilissani, jotta minulle selviää, mitä tietoja minusta varastoidaan. | Käyttäjäprofiilissa on ”Kopio omista tiedoista”-painike. Sitä painettaessa käyttäjä saa ilmoituksen pyynnön onnistumisesta sekä kopion tiedoistaan ilmoittamaansa sähköpostiosoitteeseen.
+**Title**:	8. Käyttäjäprofiilin omien tietojen muokkaaminen<br>
+**Description**:	Käyttäjänä haluan muokata henkilökohtaisen profiilini tietoja, jotta omat tietoni ovat ajan tasalla ja muut käyttäjät saavat minusta realistisen kuvan.<br>
+**Acceptance Criteria**:	Käyttäjän tulee voida muokata omia tietojaan oman profiilinsa kautta sekä tallentaa muokatut tiedot.
 
-Title | Description | Acceptance Criteria
---- | --- | ---
-10. Käyttäjäprofiilin poistaminen | **Käyttäjänä** haluan poistaa oman profiilini, mikäli en halua enää jatkaa sovelluksen käyttöä. | Käyttäjän tulee voida poistaa oma profiilinsa ja kaikki omat tietonsa sovelluksesta tietosuojakäytäntöjen (GDPR) mukaisesti.
+---
 
-Title | Description | Acceptance Criteria | Resources
---- | --- | --- | ---
-11. Ilmoitukset | **Käyttäjänä** haluan saada ilmoituksia, kun joku ilmaisee kiinnostuksensa profiiliani kohtaan, jotta tiedän, milloin on tarpeen tarkistaa sovellus. | Ilmoitukset ovat reaaliaikaisia ja sisältävät tarpeeksi tietoa, jotta käyttäjä tietää, mitä tapahtui. | [Tähän mockup-kuva]
+**Title**: 9. Kopio omista tiedoista<br>
+**Description**: Käyttäjänä haluan pyytää kopiota omista tiedoistani käyttäjäprofiilissani, jotta minulle selviää, mitä tietoja minusta varastoidaan.<br>
+**Acceptance Criteria**: Käyttäjäprofiilissa on ”Kopio omista tiedoista”-painike. Sitä painettaessa käyttäjä saa ilmoituksen pyynnön onnistumisesta sekä kopion tiedoistaan ilmoittamaansa sähköpostiosoitteeseen.
 
-Title | Description | Acceptance Criteria
---- | --- | ---
-12. Käyttäjän tietojen yksityisyys | **Käyttäjänä** haluan, että vain valitsemani tiedot ovat näkyvillä sovelluksen käyttäjille, jotta voin käyttää sovellusta turvallisesti. | Profiilin asetuksissa käyttäjä voi hallita, mitä tietoja jaetaan. Voin myös piilottaa profiilini näkyvistä muilta käyttäjiltä. Käyttäjän tulee myös hyväksyä sovelluksen palveluehdot ennen kuin voi käyttää sovellusta.
+---
 
-Title | Description | Acceptance Criteria
---- | --- | ---
-13. Toisen käyttäjän ilmiantaminen | **Käyttäjänä** haluan pystyä ilmiantamaan asiattoman viestin tai profiilin, jotta voin suojella itseäni ja muita häiritsevältä käytökseltä. | Käyttäjä voi painaa "Ilmianna" viestin tai profiilin kohdalla, ja ilmianto lähetetään tarkistettavaksi.
+**Title**:	10. Käyttäjäprofiilin poistaminen<br>
+**Description**:	Käyttäjänä haluan poistaa oman profiilini, mikäli en halua enää jatkaa sovelluksen käyttöä.<br>
+**Acceptance Criteria**:	Käyttäjän tulee voida poistaa oma profiilinsa ja kaikki omat tietonsa sovelluksesta tietosuojakäytäntöjen (GDPR) mukaisesti.
 
-Title | Description | Acceptance Criteria
---- | --- | ---
-14. Käyttäjäpalautteen antaminen | **Käyttäjänä** haluan antaa palautetta sovelluksen käytöstä ja toiminnasta. | Sovelluksessa on yksinkertainen palautteenantotoiminto.
+---
+
+**Title**: 11. Ilmoitukset<br>
+**Description**: Käyttäjänä haluan saada ilmoituksia, kun joku ilmaisee kiinnostuksensa profiiliani kohtaan, jotta tiedän, milloin on tarpeen tarkistaa sovellus.<br>
+**Acceptance Criteria**: Ilmoitukset ovat reaaliaikaisia ja sisältävät tarpeeksi tietoa, jotta käyttäjä tietää, mitä tapahtui.<br>
+**Resources**: [Tähän mockup-kuva]
+
+---
+
+**Title**: 12. Käyttäjän tietojen yksityisyys<br>
+**Description**: Käyttäjänä haluan, että vain valitsemani tiedot ovat näkyvillä sovelluksen käyttäjille, jotta voin käyttää sovellusta turvallisesti.<br>
+**Acceptance Criteria**: Profiilin asetuksissa käyttäjä voi hallita, mitä tietoja jaetaan. Voin myös piilottaa profiilini näkyvistä muilta käyttäjiltä.
+Käyttäjän tulee myös hyväksyä sovelluksen palveluehdot ennen kuin voi käyttää sovellusta.
+
+---
+
+**Title**:	13. Toisen käyttäjän ilmiantaminen<br>
+**Description**:	Käyttäjänä haluan pystyä ilmiantamaan asiattoman viestin tai profiilin, jotta voin suojella itseäni ja muita häiritsevältä käytökseltä.<br>
+**Acceptance Criteria**:	Käyttäjä voi painaa "Ilmianna" viestin tai profiilin kohdalla, ja ilmianto lähetetään tarkistettavaksi.
+
+---
+
+**Title**: 14. Käyttäjäpalautteen antaminen<br>
+**Description**: Käyttäjänä haluan antaa palautetta sovelluksen käytöstä ja toiminnasta.<br>
+**Acceptance Criteria**: Sovelluksessa on yksinkertainen palautteenantotoiminto.
 
 ### Valinnaiset vaatimukset
 
 _Näiden käyttäjätarinoiden toteutus on ylimääräistä extraa tuotteeseen._
 
-Title | Description | Acceptance Criteria
---- | --- | ---
-15. Premium-toiminnot | **Käyttäjänä** haluan ostaa Premium-version sovelluksesta, jotta saan käyttööni lisätoimintoja. | Sovelluksessa on mahdollisuus ostaa Premium-versio. Premium-käyttäjä voi nähdä omasta profiilista kiinnostuneet käyttäjät ilman chat-yhteyden luontia. Voin myös peruuttaa viimeisimmän pyyhkäisyn, jos tein virheen.
+**Title**: 15. Premium-toiminnot<br>
+**Description**: Käyttäjänä haluan ostaa Premium-version sovelluksesta, jotta saan käyttööni lisätoimintoja.<br>
+**Acceptance Criteria**: Sovelluksessa on mahdollisuus ostaa Premium-versio. Premium-käyttäjä voi nähdä omasta profiilista kiinnostuneet käyttäjät ilman chat-yhteyden luontia. Voin myös peruuttaa viimeisimmän pyyhkäisyn, jos tein virheen.
 
-Title | Description | Acceptance Criteria
---- | --- | ---
-16. Ohjeet turvalliseen kanssakäymiseen sovelluksessa ja sen ulkopuolella | **Käyttäjänä** haluan saada ohjeita siitä, miten toimia sovelluksessa ja sen ulkopuolella muiden käyttäjien kanssa turvallisesti ja vastuullisesti. | Sovellus antaa sopivassa kohdassa käyttäjälle luettavaksi lyhyen ohjeen siitä, miten kommunikoida ja tavata turvallisesti muiden käyttäjien kanssa.
+---
 
-Title | Description | Acceptance Criteria
---- | --- | ---
-17. Käyttäjän shadowbannaaminen | **Adminina** haluan pystyä estämään häiritsevien käyttäjien näkyvyyden muille käyttäjille ilman, että he huomaavat sitä, jotta voin suojella yhteisöä ja estää väärinkäytöksiä tehokkaasti. | <br>- Shadowbannattu käyttäjä voi edelleen kirjautua, selata profiileja ja "swaipata", mutta hänen profiiliaan ei näytetä muille käyttäjille, eikä hän saa yhteyksiä tai mätsäyksiä.<br>- Admin voi asettaa shadowbannauksen manuaalisesti tai automaattisesti raporttien ja algoritmien perusteella.<br>- Shadowbannaus ei näy käyttäjälle, eikä järjestelmä anna siitä mitään ilmoitusta.
+**Title**: 16. Ohjeet turvalliseen kanssakäymiseen sovelluksessa ja sen ulkopuolella<br>
+**Description**: Käyttäjänä haluan saada ohjeita siitä, miten toimia sovelluksessa ja sen ulkopuolella muiden käyttäjien kanssa turvallisesti ja vastuullisesti.<br>
+**Acceptance Criteria**: Sovellus antaa sopivassa kohdassa käyttäjälle luettavaksi lyhyen ohjeen siitä, miten kommunikoida ja tavata turvallisesti muiden käyttäjien kanssa.
 
-Title | Description | Acceptance Criteria
---- | --- | ---
-18. Ilmiantamisen automaattinen tarkastus | **Adminina** haluan, että järjestelmä merkitsee automaattisesti ilmiannetut viestit asiattomiksi tai ei-asiattomiksi, jotta voin priorisoida tarkistettavat tapaukset. | <br>- Järjestelmä analysoi ilmiannot automaattisesti, esimerkiksi syöttämällä ilmiannettu viesti tai profiili AI:lle.<br>- Jos järjestelmä tunnistaa viestin asiattomaksi, sen lähettäjä asetetaan väliaikaiseen banniin, jolloin hän ei voi käyttää sovellusta ennen ylläpitäjän tarkistusta.<br>- Väliaikaisen bannin aikana käyttäjälle näytetään viesti, jossa kerrotaan, että hänen viestinsä on ilmoitettu asiattomaksi.<br>- Admin tarkistaa tapauksen mahdollisimman pian. Jos admin toteaa viestin olleen asiattoman, bannaus pysyy voimassa ja käyttäjälle ilmoitetaan tuomion syy. Jos viesti osoittautuu vääräksi hälytykseksi, bannaus poistetaan ja käyttäjälle ilmoitetaan päätöksestä.
+---
 
-Title | Description | Acceptance Criteria
---- | --- | ---
-19. Sokkomätsi-toiminto | **Käyttäjänä** haluan yrittää löytää kämppiksen ilman rajoitteita tai hakukriteereitä ja antaa sattuman ratkaista. | <br>- Sokkomätsi-toiminto on valittavissa erillisenä ominaisuutena sovelluksen sisällä.<br>- Käyttäjä voi painaa "Sokkomätsi"-painiketta ja odottaa, että järjestelmä yhdistää hänet satunnaiseen toiseen käyttäjään, joka on myös käyttänyt sokkomätsiä.<br>- Sokkomätsi ei huomioi hakukriteerejä tai käyttäjien profiilissa ilmoitettuja toiveita.<br>- Kun sokkomätsi onnistuu:<br>- Molemmat käyttäjät saavat ilmoituksen ja pääsevät keskustelemaan toistensa kanssa chatin välityksellä.<br>- Molemmille näytetään perustiedot toisesta käyttäjästä (esim. nimi, ikä ja sijainti, jos käyttäjä on sallinut niiden jaon).<br>- Jos sokkomätsi ei löydä paria kohtuullisessa ajassa (esim. 1 minuutti), käyttäjälle ilmoitetaan, ettei muita sokkomätsi-käyttäjiä ole juuri nyt saatavilla.
+**Title**: 17. Käyttäjän shadowbannaaminen<br>
+**Description**: Adminina haluan pystyä estämään häiritsevien käyttäjien näkyvyyden muille käyttäjille ilman, että he huomaavat sitä, jotta voin suojella yhteisöä ja estää väärinkäytöksiä tehokkaasti.<br>
+**Acceptance Criteria**:
+- Shadowbannattu käyttäjä voi edelleen kirjautua, selata profiileja ja "swaipata", mutta hänen profiiliaan ei näytetä muille käyttäjille, eikä hän saa yhteyksiä tai mätsäyksiä.
+- Admin voi asettaa shadowbannauksen manuaalisesti tai automaattisesti raporttien ja algoritmien perusteella.
+- Shadowbannaus ei näy käyttäjälle, eikä järjestelmä anna siitä mitään ilmoitusta.
 
-Title | Description | Acceptance Criteria
---- | --- | ---
-20. Käyttäjätuen ominaisuus | **Käyttäjänä** haluan ottaa yhteyttä asiakastukeen, jos kohtaan ongelmia sovelluksessa, jotta saan apua nopeasti. | Sovelluksessa on yksinkertainen tukipyyntötoiminto.
+---
+
+**Title**: 18. Ilmiantamisen automaattinen tarkastus<br>
+**Description**: Adminina haluan, että järjestelmä merkitsee automaattisesti ilmiannetut viestit asiattomiksi tai ei-asiattomiksi, jotta voin priorisoida tarkistettavat tapaukset.<br>
+**Acceptance Criteria**:
+- Järjestelmä analysoi ilmiannot automaattisesti, esimerkiksi syöttämällä ilmiannettu viesti tai profiili AI:lle.
+- Jos järjestelmä tunnistaa viestin asiattomaksi, sen lähettäjä asetetaan väliaikaiseen banniin, jolloin hän ei voi käyttää sovellusta ennen ylläpitäjän tarkistusta.
+- Väliaikaisen bannin aikana käyttäjälle näytetään viesti, jossa kerrotaan, että hänen viestinsä on ilmoitettu asiattomaksi.
+- Admin tarkistaa tapauksen mahdollisimman pian.
+- Jos admin toteaa viestin olleen asiattoman, bannaus pysyy voimassa ja käyttäjälle ilmoitetaan tuomion syy.
+- Jos viesti osoittautuu vääräksi hälytykseksi, bannaus poistetaan ja käyttäjälle ilmoitetaan päätöksestä.
+
+---
+
+**Title**: 19. Sokkomätsi-toiminto<br>
+**Description**: Käyttäjänä haluan yrittää löytää kämppiksen ilman rajoitteita tai hakukriteereitä ja antaa sattuman ratkaista.<br>
+**Acceptance Criteria**:
+- Sokkomätsi-toiminto on valittavissa erillisenä ominaisuutena sovelluksen sisällä.
+- Käyttäjä voi painaa "Sokkomätsi"-painiketta ja odottaa, että järjestelmä yhdistää hänet satunnaiseen toiseen käyttäjään, joka on myös käyttänyt sokkomätsiä.
+- Sokkomätsi ei huomioi hakukriteerejä tai käyttäjien profiilissa ilmoitettuja toiveita.
+- Kun sokkomätsi onnistuu:
+- Molemmat käyttäjät saavat ilmoituksen ja pääsevät keskustelemaan toistensa kanssa chatin välityksellä.
+- Molemmille näytetään perustiedot toisesta käyttäjästä (esim. nimi, ikä ja sijainti, jos käyttäjä on sallinut niiden jaon).
+- Jos sokkomätsi ei löydä paria kohtuullisessa ajassa (esim. 1 minuutti), käyttäjälle ilmoitetaan, ettei muita sokkomätsi-käyttäjiä ole juuri nyt saatavilla.
+
+---
+
+**Title**: 20. Käyttäjätuen ominaisuus<br>
+**Description**: Käyttäjänä haluan ottaa yhteyttä asiakastukeen, jos kohtaan ongelmia sovelluksessa, jotta saan apua nopeasti.<br>
+**Acceptance Criteria**: Sovelluksessa on yksinkertainen tukipyyntötoiminto.
 
 ## Vaatimukset
 
