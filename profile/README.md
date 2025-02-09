@@ -17,7 +17,7 @@ _Kämppis_ tarjoaa kimppa-asumisesta kiinnostuneille käyttäjille vain mahdolli
 
 ## Teknologiat
 _Kämppis_ on rakennettu käyttämällä seuraavia teknologioita:
-- back-end: Kotlin, Spring Boot (Maven)
+- back-end: Kotlin, Spring Boot (Gradle)
 - mobiilisovellus: React Native, TypeScript
 - tietokanta: PostgreSQL
 - julkaisu: ?
