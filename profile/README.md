@@ -153,23 +153,29 @@ _Näiden käyttäjätarinoiden sekä välttämättömien käyttäjätarinoiden t
 <b>Acceptance Criteria</b>: Sovelluksessa on yksinkertainen palautteenantotoiminto.<br>
 </details>
 
+<details>
+<summary><b>Title</b>:	15. Kämppä</summary>
+<b>Description</b>:	Käyttäjänä haluan ilmoittaa, minkälaista kämppää haen, tai jos minulla on kämppä, syöttää sen tiedot.<br>
+<b>Acceptance Criteria</b>:	Käyttäjä voi ilmoittaa profiilissaan, hakeeko hän kämppää vai kämppistä. Kämpän tai halutun kämpän ominaisuudet löytyvät profiilista.<br>
+</details>
+
 ### Valinnaiset vaatimukset
 _Näiden käyttäjätarinoiden toteutus on ylimääräistä extraa tuotteeseen._
 
 <details>
-<summary><b>Title</b>: 15. Premium-toiminnot</summary>
+<summary><b>Title</b>: 16. Premium-toiminnot</summary>
 <b>Description</b>: Käyttäjänä haluan ostaa Premium-version sovelluksesta, jotta saan käyttööni lisätoimintoja.<br>
 <b>Acceptance Criteria</b>: Sovelluksessa on mahdollisuus ostaa Premium-versio. Premium-käyttäjä voi nähdä omasta profiilista kiinnostuneet käyttäjät ilman chat-yhteyden luontia. Voin myös peruuttaa viimeisimmän pyyhkäisyn, jos tein virheen.<br>
 </details>
 
 <details>
-<summary><b>Title</b>: 16. Ohjeet turvalliseen kanssakäymiseen sovelluksessa ja sen ulkopuolella</summary>
+<summary><b>Title</b>: 17. Ohjeet turvalliseen kanssakäymiseen sovelluksessa ja sen ulkopuolella</summary>
 <b>Description</b>: Käyttäjänä haluan saada ohjeita siitä, miten toimia sovelluksessa ja sen ulkopuolella muiden käyttäjien kanssa turvallisesti ja vastuullisesti.<br>
 <b>Acceptance Criteria</b>: Sovellus antaa sopivassa kohdassa käyttäjälle luettavaksi lyhyen ohjeen siitä, miten kommunikoida ja tavata turvallisesti muiden käyttäjien kanssa.<br>
 </details>
 
 <details>
-<summary><b>Title</b>: 17. Käyttäjän shadowbannaaminen</summary>
+<summary><b>Title</b>: 18. Käyttäjän shadowbannaaminen</summary>
 <b>Description</b>: Adminina haluan pystyä estämään häiritsevien käyttäjien näkyvyyden muille käyttäjille ilman, että he huomaavat sitä, jotta voin suojella yhteisöä ja estää väärinkäytöksiä tehokkaasti.<br>
 <b>Acceptance Criteria</b>:<br>
 - Shadowbannattu käyttäjä voi edelleen kirjautua, selata profiileja ja "swaipata", mutta hänen profiiliaan ei näytetä muille käyttäjille, eikä hän saa yhteyksiä tai mätsäyksiä.<br>
@@ -178,7 +184,7 @@ _Näiden käyttäjätarinoiden toteutus on ylimääräistä extraa tuotteeseen._
 </details>
 
 <details>
-<summary><b>Title</b>: 18. Ilmiantamisen automaattinen tarkastus</summary>
+<summary><b>Title</b>: 19. Ilmiantamisen automaattinen tarkastus</summary>
 <b>Description</b>: Adminina haluan, että järjestelmä merkitsee automaattisesti ilmiannetut viestit asiattomiksi tai ei-asiattomiksi, jotta voin priorisoida tarkistettavat tapaukset.<br>
 <b>Acceptance Criteria</b>:<br>
 - Järjestelmä analysoi ilmiannot automaattisesti, esimerkiksi syöttämällä ilmiannettu viesti tai profiili AI:lle.<br>
@@ -190,7 +196,7 @@ _Näiden käyttäjätarinoiden toteutus on ylimääräistä extraa tuotteeseen._
 </details>
 
 <details>
-<summary><b>Title</b>: 19. Sokkomätsi-toiminto</summary>
+<summary><b>Title</b>: 20. Sokkomätsi-toiminto</summary>
 <b>Description</b>: Käyttäjänä haluan yrittää löytää kämppiksen ilman rajoitteita tai hakukriteereitä ja antaa sattuman ratkaista.<br>
 <b>Acceptance Criteria</b>:<br>
 - Sokkomätsi-toiminto on valittavissa erillisenä ominaisuutena sovelluksen sisällä.<br>
@@ -203,7 +209,7 @@ _Näiden käyttäjätarinoiden toteutus on ylimääräistä extraa tuotteeseen._
 </details>
 
 <details>
-<summary><b>Title</b>: 20. Käyttäjätuen ominaisuus</summary>
+<summary><b>Title</b>: 21. Käyttäjätuen ominaisuus</summary>
 <b>Description</b>: Käyttäjänä haluan ottaa yhteyttä asiakastukeen, jos kohtaan ongelmia sovelluksessa, jotta saan apua nopeasti.<br>
 <b>Acceptance Criteria</b>: Sovelluksessa on yksinkertainen tukipyyntötoiminto.<br>
 </details>
