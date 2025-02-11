@@ -165,7 +165,7 @@ _Näiden käyttäjätarinoiden toteutus on ylimääräistä extraa tuotteeseen._
 <details>
 <summary><b>Title</b>: 16. Premium-toiminnot</summary>
 <b>Description</b>: Käyttäjänä haluan ostaa Premium-version sovelluksesta, jotta saan käyttööni lisätoimintoja.<br>
-<b>Acceptance Criteria</b>: Sovelluksessa on mahdollisuus ostaa Premium-versio. Premium-käyttäjä voi nähdä omasta profiilista kiinnostuneet käyttäjät ilman chat-yhteyden luontia. Voin myös peruuttaa viimeisimmän pyyhkäisyn, jos tein virheen.<br>
+<b>Acceptance Criteria</b>: Sovelluksessa on mahdollisuus ostaa Premium-versio. Premium-käyttäjä voi nähdä omasta profiilista kiinnostuneet käyttäjät ilman chat-yhteyden luontia. Voin myös peruuttaa viimeisimmän pyyhkäisyn, jos tein virheen. Asunnon haltijana toimivana käyttäjä voin myös valita profiilistani AutoLike-ominaisuuden, jonka avulla mätsään automaattisesti kaikkien niiden profiilien kanssa, jotka tykkäävät profiilistani.<br>
 </details>
 
 <details>
