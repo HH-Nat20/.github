@@ -218,3 +218,10 @@ _Näiden käyttäjätarinoiden toteutus on ylimääräistä extraa tuotteeseen._
 [Tähän osio, jossa tietoturva, tietosuoja, GDPR, tietokannan suojaus]
 
 ## Ota yhteyttä
+Sovelluksen ovat toteuttaneet
+- Janne Airaksinen: [devaajanne](https://github.com/devaajanne)
+- Paul Carlson: [Phoolis](https://github.com/Phoolis)
+- Jesse Hellman: [Bminor87](https://github.com/Bminor87)
+- Julia Hämäläinen: [marttyyriroskis](https://github.com/marttyyriroskis)
+
+Kehittäjien yhteystiedot löydät GitHub-profiileista.
