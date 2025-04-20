@@ -1,3 +1,8 @@
+<!-- SHIELDIT -->
+[![Contributors][contributors-shield]][contributors-url]
+[![Issues][issues-shield]][issues-url]
+
+
 # Kämppis
 
 ## Mikä _Kämppis_?
@@ -242,6 +247,10 @@ Sovelluksen ovat toteuttaneet
 Kehittäjien yhteystiedot löydät GitHub-profiileista.
 
 <!-- LINKIT JA KUVAT -->
+[contributors-shield]: https://img.shields.io/github/contributors/HH-Nat20/kamppis-server.svg?style=for-the-badge
+[contributors-url]: https://img.shields.io/github/contributors/HH-Nat20/kamppis-server.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/HH-Nat20/kamppis-server.svg?style=for-the-badge
+[issues-url]: https://github.com/HH-Nat20/kamppis-server/issues
 [kotlin-logo]: https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white
 [kotlin-url]: https://kotlinlang.org/
 [spring-logo]: https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white
