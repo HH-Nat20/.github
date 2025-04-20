@@ -33,6 +33,9 @@ TIETOKANTA
 TYÖKALUT
 [![Docker][docker-logo]][docker-url]
 [![Expo Go][expo-logo]][expo-url]
+[![Bruno][bruno-logo]][bruno-url]
+[![Visual Studio Code][vs-code-logo]][vs-code-url]
+[![IntelliJ IDEA][intellij-idea-logo]][intellij-idea-url]
 
 Tutustu myös projektin repositorioihin:
 - back-end: https://github.com/HH-Nat20/kamppis-server
@@ -255,3 +258,9 @@ Kehittäjien yhteystiedot löydät GitHub-profiileista.
 [docker-url]: https://www.docker.com/
 [expo-logo]: https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=fff
 [expo-url]: https://expo.dev/go
+[bruno-logo]: https://img.shields.io/badge/Bruno-FF6C37?style=for-the-badge&logo=Bruno&logoColor=white
+[bruno-url]: https://www.usebruno.com/
+[vs-code-logo]: https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white&style=for-the-badge
+[vs-code-url]: https://code.visualstudio.com/
+[intellij-idea-logo]: https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white&style=for-the-badge
+[intellij-idea-url]: https://www.jetbrains.com/idea/
