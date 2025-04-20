@@ -23,19 +23,19 @@ _Kämppis_ tarjoaa kimppa-asumisesta kiinnostuneille käyttäjille vain mahdolli
 ## Teknologiat
 _Kämppis_ on rakennettu käyttämällä seuraavia teknologioita:
 
-BACK-END
+![Back-end][back-end-logo]
 [![Kotlin][kotlin-logo]][kotlin-url]
 [![Spring Boot][spring-logo]][spring-url]
 [![Gradle][gradle-logo]][gradle-url]
 
-FRONT-END
+![Front-end][front-end-logo]
 [![TypeScript][typescript-logo]][typescript-url]
 [![React Native][react-native-logo]][react-native-url]
 
-TIETOKANTA
+![Tietokanta][database-logo]
 [![PostgreSQL][postgres-logo]][postgres-url]
 
-TYÖKALUT
+![Työkalut][tools-logo]
 [![Docker][docker-logo]][docker-url]
 [![Expo Go][expo-logo]][expo-url]
 [![Bruno][bruno-logo]][bruno-url]
@@ -251,6 +251,10 @@ Kehittäjien yhteystiedot löydät GitHub-profiileista.
 [contributors-url]: https://img.shields.io/github/contributors/HH-Nat20/kamppis-server.svg?style=for-the-badge
 [issues-shield]: https://img.shields.io/github/issues/HH-Nat20/kamppis-server.svg?style=for-the-badge
 [issues-url]: https://github.com/HH-Nat20/kamppis-server/issues
+[back-end-logo]: https://img.shields.io/badge/BackEnd-000000?style=for-the-badge
+[front-end-logo]: https://img.shields.io/badge/FrontEnd-000000?style=for-the-badge
+[database-logo]: https://img.shields.io/badge/Tietokanta-000000?style=for-the-badge
+[tools-logo]: https://img.shields.io/badge/Työkalut-000000?style=for-the-badge
 [kotlin-logo]: https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white
 [kotlin-url]: https://kotlinlang.org/
 [spring-logo]: https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white
