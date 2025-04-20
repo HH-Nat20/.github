@@ -17,10 +17,22 @@ _Kämppis_ tarjoaa kimppa-asumisesta kiinnostuneille käyttäjille vain mahdolli
 
 ## Teknologiat
 _Kämppis_ on rakennettu käyttämällä seuraavia teknologioita:
-- back-end: Kotlin, Spring Boot (Gradle)
-- mobiilisovellus: React Native, TypeScript
-- tietokanta: PostgreSQL
-- julkaisu: ?
+
+BACK-END
+[![Kotlin][kotlin-logo]][kotlin-url]
+[![Spring Boot][spring-logo]][spring-url]
+[![Gradle][gradle-logo]][gradle-url]
+
+FRONT-END
+[![TypeScript][typescript-logo]][typescript-url]
+[![React Native][react-native-logo]][react-native-url]
+
+TIETOKANTA
+[![PostgreSQL][postgres-logo]][postgres-url]
+
+TYÖKALUT
+[![Docker][docker-logo]][docker-url]
+[![Expo Go][expo-logo]][expo-url]
 
 Tutustu myös projektin repositorioihin:
 - back-end: https://github.com/HH-Nat20/kamppis-server
@@ -225,3 +237,21 @@ Sovelluksen ovat toteuttaneet
 - Julia Hämäläinen: [marttyyriroskis](https://github.com/marttyyriroskis)
 
 Kehittäjien yhteystiedot löydät GitHub-profiileista.
+
+<!-- LINKIT JA KUVAT -->
+[kotlin-logo]: https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white
+[kotlin-url]: https://kotlinlang.org/
+[spring-logo]: https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white
+[spring-url]: https://spring.io/
+[gradle-logo]: https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white
+[gradle-url]: https://gradle.org/
+[typescript-logo]: https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
+[typescript-url]: https://www.typescriptlang.org/
+[react-native-logo]: https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
+[react-native-url]: https://reactnative.dev/
+[postgres-logo]: https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white
+[postgres-url]: https://www.postgresql.org/
+[docker-logo]: https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white
+[docker-url]: https://www.docker.com/
+[expo-logo]: https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=fff
+[expo-url]: https://expo.dev/go
