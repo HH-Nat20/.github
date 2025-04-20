@@ -275,5 +275,5 @@ Kehittäjien yhteystiedot löydät GitHub-profiileista.
 [bruno-url]: https://www.usebruno.com/
 [vs-code-logo]: https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white&style=for-the-badge
 [vs-code-url]: https://code.visualstudio.com/
-[intellij-idea-logo]: https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white&style=for-the-badge
+[intellij-idea-logo]: https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge
 [intellij-idea-url]: https://www.jetbrains.com/idea/
