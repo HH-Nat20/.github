@@ -8,16 +8,16 @@
 <summary><b>Sisällysluetto</b></summary>
   <ol>
     <li>
-      <a href="#kämppis">Kämppis</a>
+      <a href="#kämppis"><i>Kämppis</i></a>
     </li>
     <li>
-        <a href="#mikä-kämppis">Mikä Kämppis?</a>
+        <a href="#mikä-kämppis">Mikä <i>Kämppis</i>?</a>
     </li>
     <li>
-        <a href="#miksi-kämppis">Miksi Kämppis?</a>
+        <a href="#miksi-kämppis">Miksi <i>Kämppis</i>?</a>
     </li>
     <li>
-        <a href="#miten-kämppis-toimii">Miten Kämppis toimii?</a>
+        <a href="#miten-kämppis-toimii">Miten <i>Kämppis</i> toimii?</a>
     </li>
     <li>
         <a href="#roadmap">Roadmap</a>
@@ -40,7 +40,7 @@
   </ol>
 </details><br>
 
-# Kämppis
+# _Kämppis_
 
 ## Mikä _Kämppis_?
 _Kämppis_ on mobiilisovellus, joka yhdistää kämppiksiä etsivät ihmiset toistensa kanssa.
