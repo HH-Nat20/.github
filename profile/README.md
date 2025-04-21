@@ -50,15 +50,17 @@ _Kämppis_ on rakennettu käyttämällä seuraavia teknologioita:
 [![PostgreSQL][postgres-logo]][postgres-url]
 
 ![Työkalut][tools-logo]<br>
+[![GitHub][github-logo]][github-url]
 [![Docker][docker-logo]][docker-url]
 [![Expo Go][expo-logo]][expo-url]
 [![Bruno][bruno-logo]][bruno-url]
 [![Visual Studio Code][vs-code-logo]][vs-code-url]
 [![IntelliJ IDEA][intellij-idea-logo]][intellij-idea-url]
 
-Tutustu myös projektin repositorioihin:
-- back-end: https://github.com/HH-Nat20/kamppis-server
-- mobiilisovellus: https://github.com/HH-Nat20/kamppis-app
+Tutustu myös _Kämppis_-projektin repositorioihin:
+
+[![Back-end repository][back-end-repository-logo]][back-end-repository-url]
+[![App repository][app-repository-logo]][app-repository-url]
 <p align="right">(<a href="#readme-alku">Takaisin alkuun</a>)</p>
 
 ## Sovelluksen arkkitehtuuri
@@ -328,7 +330,11 @@ Kehittäjien yhteystiedot löydät GitHub-profiileista.
 [issues-shield]: https://img.shields.io/github/issues/HH-Nat20/kamppis-server.svg?style=for-the-badge
 [issues-url]: https://github.com/HH-Nat20/kamppis-server/issues
 [back-end-logo]: https://img.shields.io/badge/BackEnd-000000?style=for-the-badge
+[back-end-repository-logo]: https://img.shields.io/badge/BackEnd%20Repository-000000?style=for-the-badge
+[back-end-repository-url]: https://github.com/HH-Nat20/kamppis-server
 [app-logo]: https://img.shields.io/badge/App-000000?style=for-the-badge
+[app-repository-logo]: https://img.shields.io/badge/App%20Repository-000000?style=for-the-badge
+[app-repository-url]: https://github.com/HH-Nat20/kamppis-app
 [database-logo]: https://img.shields.io/badge/Tietokanta-000000?style=for-the-badge
 [tools-logo]: https://img.shields.io/badge/Työkalut-000000?style=for-the-badge
 [kotlin-logo]: https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white
@@ -343,6 +349,8 @@ Kehittäjien yhteystiedot löydät GitHub-profiileista.
 [react-native-url]: https://reactnative.dev/
 [postgres-logo]: https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white
 [postgres-url]: https://www.postgresql.org/
+[github-logo]: https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge
+[github-url]: https://github.com/
 [docker-logo]: https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white
 [docker-url]: https://www.docker.com/
 [expo-logo]: https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=fff
