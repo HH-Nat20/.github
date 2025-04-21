@@ -23,19 +23,19 @@ _Kämppis_ tarjoaa kimppa-asumisesta kiinnostuneille käyttäjille vain mahdolli
 ## Teknologiat
 _Kämppis_ on rakennettu käyttämällä seuraavia teknologioita:
 
-![Back-end][back-end-logo]
+![Back-end][back-end-logo]<br>
 [![Kotlin][kotlin-logo]][kotlin-url]
 [![Spring Boot][spring-logo]][spring-url]
 [![Gradle][gradle-logo]][gradle-url]
 
-![App][app-logo]
+![App][app-logo]<br>
 [![TypeScript][typescript-logo]][typescript-url]
 [![React Native][react-native-logo]][react-native-url]
 
-![Tietokanta][database-logo]
+![Tietokanta][database-logo]<br>
 [![PostgreSQL][postgres-logo]][postgres-url]
 
-![Työkalut][tools-logo]
+![Työkalut][tools-logo]<br>
 [![Docker][docker-logo]][docker-url]
 [![Expo Go][expo-logo]][expo-url]
 [![Bruno][bruno-logo]][bruno-url]
