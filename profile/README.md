@@ -3,6 +3,42 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
 
+<br>
+<details>
+<summary><b>Sisällysluetto</b></summary>
+  <ol>
+    <li>
+      <a href="#kämppis">Kämppis</a>
+    </li>
+    <li>
+        <a href="#mikä-kämppis">Mikä Kämppis?</a>
+    </li>
+    <li>
+        <a href="#miksi-kämppis">Miksi Kämppis?</a>
+    </li>
+    <li>
+        <a href="#miten-kämppis-toimii">Miten Kämppis toimii?</a>
+    </li>
+    <li>
+        <a href="#roadmap">Roadmap</a>
+    </li>
+    <li>
+        <a href="#teknologiat">Teknologiat</a>
+    </li>
+    <li>
+        <a href="#sovelluksen-arkkitehtuuri">Sovelluksen arkkitehtuuri</a>
+    </li>
+    <li>
+        <a href="#käyttäjätarinat-ja-vaatimukset">Käyttäjätarinat ja vaatimukset</a>
+    </li>
+        <li>
+        <a href="#käyttöehdot-ja-tietoturva">Käyttöehdot ja tietoturva</a>
+    </li>
+    <li>
+        <a href="#ota-yhteyttä">Ota yhteyttä</a>
+    </li>
+  </ol>
+</details><br>
 
 # Kämppis
 
@@ -310,7 +346,7 @@ Näiden käyttäjätarinoiden toteutus on ylimääräistä extraa tuotteeseen.
 </details>
 <p align="right">(<a href="#readme-alku">Takaisin alkuun</a>)</p>
 
-## Käyttöehdot & tietoturva
+## Käyttöehdot ja tietoturva
 [Tähän osio, jossa tietoturva, tietosuoja, GDPR, tietokannan suojaus]
 <p align="right">(<a href="#readme-alku">Takaisin alkuun</a>)</p>
 
