@@ -4,16 +4,14 @@
 [![Issues][issues-shield]][issues-url]
 
 <div align="center">
-<img src="https://github.com/HH-Nat20/.github/blob/main/kamppis-app-icon.png" alt="Kämppis-sovelluksen logo" style="width:60%; height:auto;">
+<img src="https://github.com/HH-Nat20/.github/blob/main/kamppis-app-icon-128-128.png" alt="Kämppis-sovelluksen logo" style="width:60%; height:auto;">
+<h1><i>Kämppis</i></h1>
 </div>
 
 <br>
 <details>
 <summary><b>Sisällysluetto</b></summary>
   <ol>
-    <li>
-      <a href="#kämppis"><i>Kämppis</i></a>
-    </li>
     <li>
         <a href="#mikä-kämppis">Mikä <i>Kämppis</i>?</a>
     </li>
@@ -43,8 +41,6 @@
     </li>
   </ol>
 </details><br>
-
-# _Kämppis_
 
 ## Mikä _Kämppis_?
 _Kämppis_ on mobiilisovellus, joka yhdistää kämppiksiä etsivät ihmiset toistensa kanssa.
