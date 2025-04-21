@@ -28,7 +28,7 @@ _Kämppis_ on rakennettu käyttämällä seuraavia teknologioita:
 [![Spring Boot][spring-logo]][spring-url]
 [![Gradle][gradle-logo]][gradle-url]
 
-![Front-end][front-end-logo]
+![App][app-logo]
 [![TypeScript][typescript-logo]][typescript-url]
 [![React Native][react-native-logo]][react-native-url]
 
@@ -252,7 +252,7 @@ Kehittäjien yhteystiedot löydät GitHub-profiileista.
 [issues-shield]: https://img.shields.io/github/issues/HH-Nat20/kamppis-server.svg?style=for-the-badge
 [issues-url]: https://github.com/HH-Nat20/kamppis-server/issues
 [back-end-logo]: https://img.shields.io/badge/BackEnd-000000?style=for-the-badge
-[front-end-logo]: https://img.shields.io/badge/FrontEnd-000000?style=for-the-badge
+[app-logo]: https://img.shields.io/badge/App-000000?style=for-the-badge
 [database-logo]: https://img.shields.io/badge/Tietokanta-000000?style=for-the-badge
 [tools-logo]: https://img.shields.io/badge/Työkalut-000000?style=for-the-badge
 [kotlin-logo]: https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white
