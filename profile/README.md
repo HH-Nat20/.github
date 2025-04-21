@@ -4,7 +4,7 @@
 [![Issues][issues-shield]][issues-url]
 
 <div align="center">
-<img src="https://github.com/HH-Nat20/.github/blob/main/kamppis-app-icon.png" alt="Kämppis-sovelluksen logo" width="80px" height="80px">
+<img src="https://github.com/HH-Nat20/.github/blob/main/kamppis-app-icon.png" alt="Kämppis-sovelluksen logo" width="120px" height="120px">
 <h1><i>Kämppis</i></h1>
 </div>
 
