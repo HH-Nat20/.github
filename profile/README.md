@@ -16,9 +16,18 @@ Suomen punaisen ristin teettämän [yksinäisyysbarometrin](https://www.punainen
 _Kämppis_ vastaa tähän haasteeseen tarjoamalla kimppa-asumista harkitseville alustan löytää toisensa.
 
 ## Miten _Kämppis_ toimii?
-Kimppa-asumisesta kiinnosunut käyttä luo profiilin _Kämppikseen_. Käyttäjä pääsee selaamaan muiden rekisteröityneiden käyttäjien profiileja ja halutessaan asettaa kriteerejä, joiden mukaan _Kämppis_ etsii ja näyttää käyttäjälle muiden käyttäjien profiileja. Kriteereinä voi olla esim. kämppäkaverin toivottu sukupuoli, elämäntyyli, kimppakämpän sijainti, lemmikit jne. Käyttäjä voi ilmaista, mikäli haluaa saada tietää jostakin käyttäjästä enemmän. Mikäli kaksi käyttäjää haluaa tutustua toisiinsa mahdollisina tulevina kämppäkavereina, avaa _Kämppis_ heille chat-mahdollisuuden.
+Kimppa-asumisesta kiinnostunut käyttäjä luo profiilin _Kämppikseen_. Käyttäjä voi toistaiseksi kirjautua käyttämällä GitHub-tiliään. Kirjautunut käyttäjä voi sovelluksessa muokata omaa profiiliaan, kämppis- ja huonepreferenssejään sekä valitsemaan, etsiikö hän toista kämppistä uutta kimppakämppää varten, tyhjää huonetta olemassa olevasta kimppakämpässä vai uutta kämppista oman kimppakämppänsä tyhjään huoneeseen.
+
+Käyttäjä pääsee selaamaan muiden rekisteröityneiden käyttäjien profiileja. Käyttäjä näkee toisten käyttäjien tai vapaiden huoneiden profiileja omien preferenssiensä mukaisesti. Preferenssejä voi olla esimerkiksi kämppäkaverin ikä ja sukupuoli tai kimppakämppähuoneen sijainti, kimppakämpän kämppisten lukumäärä ja vuokra. Löytäessään sopivan kämppiksen tai huoneen käyttäjä voi kertoa olevansa kiinnostunut niistä pyyhkäisemällä profiilin oikealle. Mikäli profiili ei kiinnosta käyttäjää, hän voi siirtyä seuraavaan profiiliin pyyhkäisemällä vasemmalle. Mikäli kaksi käyttäjää pyyhkäisee toisiaan oikealle, tai jos käyttäjä pyyhkäisee huonetta, jonka lisääjän pyyhkäisee käyttäjää, avaa _Kämppis_ heille chat-ikkunan. Käyttäjät voivat näin tutustua paremmin.
 
 _Kämppis_ tarjoaa kimppa-asumisesta kiinnostuneille käyttäjille vain mahdollisuuden löytää toisiaan ja tutustua toisiinsa. _Kämppis_ ei sisällä ominaisuuksia esimerkiksi kimppa-asunnon etsimiseen tai muihin asumiseen liittyviin käytännön seikkoihin.
+
+## Roadmap
+Kämppiksen versio 1.0 sisältää sovelluksen minimum viable product -version (MVP). Lisättäviä toiminnallisuuksia ovat
+- OAuth-kirjautumisen laajentaminen (esim. Google-tilillä)
+- Admin-hallintapaneeli
+- Sovelluksen ilmoitukset
+- Toiminnallisuudet kohdassa <b>Valinnaiset vaatimukset</b>
 
 ## Teknologiat
 _Kämppis_ on rakennettu käyttämällä seuraavia teknologioita:
