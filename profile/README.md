@@ -3,6 +3,10 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
 
+<div align="center">
+<img src="https://github.com/HH-Nat20/.github/blob/main/kamppis-app-icon.png" alt="Kämppis-sovelluksen logo" style="width:60%; height:auto;">
+</div>
+
 <br>
 <details>
 <summary><b>Sisällysluetto</b></summary>
