@@ -1,3 +1,4 @@
+<a id="readme-alku"></a>
 <!-- SHIELDIT -->
 [![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
@@ -7,6 +8,7 @@
 
 ## Mikä _Kämppis_?
 _Kämppis_ on mobiilisovellus, joka yhdistää kämppiksiä etsivät ihmiset toistensa kanssa.
+<p align="right">(<a href="#readme-alku">Takaisin alkuun</a>)</p>
 
 ## Miksi _Kämppis_?
 _Kämppis_ pyrkii vaikuttamaan positiivisesti käyttäjiensä elämään.
@@ -14,6 +16,7 @@ _Kämppis_ pyrkii vaikuttamaan positiivisesti käyttäjiensä elämään.
 Suomen punaisen ristin teettämän [yksinäisyysbarometrin](https://www.punainenristi.fi/uutiset/2023/yksinaisyys-koskettaa-yha-useampaa-suomessa/) mukaan kolmannes 15–24-vuotiaista nuorista tuntee itsensä yksinäiseksi kuukausittain. Lisäksi inflaatio, asuinkustannusten nousu sekä hallituksen kaavailemat muutokset opiskelijoiden asumistukeen tekevät kimppa-asumisesta myös taloudellisesti houkuttelevan vaihtoehdon.
 
 _Kämppis_ vastaa tähän haasteeseen tarjoamalla kimppa-asumista harkitseville alustan löytää toisensa.
+<p align="right">(<a href="#readme-alku">Takaisin alkuun</a>)</p>
 
 ## Miten _Kämppis_ toimii?
 Kimppa-asumisesta kiinnostunut käyttäjä luo profiilin _Kämppikseen_. Käyttäjä voi toistaiseksi kirjautua käyttämällä GitHub-tiliään. Kirjautunut käyttäjä voi sovelluksessa muokata omaa profiiliaan, kämppis- ja huonepreferenssejään sekä valitsemaan, etsiikö hän toista kämppistä uutta kimppakämppää varten, tyhjää huonetta olemassa olevasta kimppakämpässä vai uutta kämppista oman kimppakämppänsä tyhjään huoneeseen.
@@ -21,6 +24,7 @@ Kimppa-asumisesta kiinnostunut käyttäjä luo profiilin _Kämppikseen_. Käytt�
 Käyttäjä pääsee selaamaan muiden rekisteröityneiden käyttäjien profiileja. Käyttäjä näkee toisten käyttäjien tai vapaiden huoneiden profiileja omien preferenssiensä mukaisesti. Preferenssejä voi olla esimerkiksi kämppäkaverin ikä ja sukupuoli tai kimppakämppähuoneen sijainti, kimppakämpän kämppisten lukumäärä ja vuokra. Löytäessään sopivan kämppiksen tai huoneen käyttäjä voi kertoa olevansa kiinnostunut niistä pyyhkäisemällä profiilin oikealle. Mikäli profiili ei kiinnosta käyttäjää, hän voi siirtyä seuraavaan profiiliin pyyhkäisemällä vasemmalle. Mikäli kaksi käyttäjää pyyhkäisee toisiaan oikealle, tai jos käyttäjä pyyhkäisee huonetta, jonka lisääjän pyyhkäisee käyttäjää, avaa _Kämppis_ heille chat-ikkunan. Käyttäjät voivat näin tutustua paremmin.
 
 _Kämppis_ tarjoaa kimppa-asumisesta kiinnostuneille käyttäjille vain mahdollisuuden löytää toisiaan ja tutustua toisiinsa. _Kämppis_ ei sisällä ominaisuuksia esimerkiksi kimppa-asunnon etsimiseen tai muihin asumiseen liittyviin käytännön seikkoihin.
+<p align="right">(<a href="#readme-alku">Takaisin alkuun</a>)</p>
 
 ## Roadmap
 Kämppiksen versio 1.0 sisältää sovelluksen minimum viable product -version (MVP). Lisättäviä toiminnallisuuksia ovat
@@ -28,6 +32,7 @@ Kämppiksen versio 1.0 sisältää sovelluksen minimum viable product -version (
 - Admin-hallintapaneeli
 - Sovelluksen ilmoitukset
 - Toiminnallisuudet kohdassa <b>Valinnaiset vaatimukset</b>
+<p align="right">(<a href="#readme-alku">Takaisin alkuun</a>)</p>
 
 ## Teknologiat
 _Kämppis_ on rakennettu käyttämällä seuraavia teknologioita:
@@ -54,12 +59,14 @@ _Kämppis_ on rakennettu käyttämällä seuraavia teknologioita:
 Tutustu myös projektin repositorioihin:
 - back-end: https://github.com/HH-Nat20/kamppis-server
 - mobiilisovellus: https://github.com/HH-Nat20/kamppis-app
+<p align="right">(<a href="#readme-alku">Takaisin alkuun</a>)</p>
 
 ## Sovelluksen arkkitehtuuri
 <details>
  <summary>Klikkaa avataksesi sovelluksen arkkitehtuurikuvan</summary>
  <img src="https://github.com/HH-Nat20/.github/blob/main/Nat20%20K%C3%A4mppis-sovelluksen%20arkkitehtuuri.png" alt="Kämppis-sovelluksen arkkitehtuuri" style="width:60%; height:auto;">
 </details>
+<p align="right">(<a href="#readme-alku">Takaisin alkuun</a>)</p>
 
 ## Käyttäjätarinat ja vaatimukset
 
@@ -299,9 +306,11 @@ Näiden käyttäjätarinoiden toteutus on ylimääräistä extraa tuotteeseen.
 </blockquote>
 
 </details>
+<p align="right">(<a href="#readme-alku">Takaisin alkuun</a>)</p>
 
 ## Käyttöehdot & tietoturva
 [Tähän osio, jossa tietoturva, tietosuoja, GDPR, tietokannan suojaus]
+<p align="right">(<a href="#readme-alku">Takaisin alkuun</a>)</p>
 
 ## Ota yhteyttä
 Sovelluksen ovat toteuttaneet
@@ -311,6 +320,7 @@ Sovelluksen ovat toteuttaneet
 - Julia Hämäläinen: [marttyyriroskis](https://github.com/marttyyriroskis)
 
 Kehittäjien yhteystiedot löydät GitHub-profiileista.
+<p align="right">(<a href="#readme-alku">Takaisin alkuun</a>)</p>
 
 <!-- LINKIT JA KUVAT -->
 [contributors-shield]: https://img.shields.io/github/contributors/HH-Nat20/kamppis-server.svg?style=for-the-badge
