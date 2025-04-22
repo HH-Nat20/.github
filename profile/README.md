@@ -66,6 +66,8 @@ Kämppiksen versio 1.0 sisältää sovelluksen minimum viable product -version (
 - Sovelluksen ilmoitukset
 - Toiminnallisuudet kohdassa <b>Valinnaiset vaatimukset</b>
 
+Katso tarkka lista suunnitelluista toiminnallisuuksista ja tunnetuista ongelmista:
+
 [![Back-end issues][back-end-issues-logo]][back-end-issues-url]
 [![App issues][app-issues-logo]][app-issues-url]
 <p align="right">(<a href="#readme-alku">Takaisin alkuun</a>)</p>
@@ -103,7 +105,7 @@ Tutustu myös _Kämppis_-projektin repositorioihin:
 ## Sovelluksen arkkitehtuuri
 <details>
  <summary>Klikkaa avataksesi sovelluksen arkkitehtuurikuvan</summary>
- <img src="https://github.com/HH-Nat20/.github/blob/main/Nat20%20K%C3%A4mppis-sovelluksen%20arkkitehtuuri.png" alt="Kämppis-sovelluksen arkkitehtuuri" style="width:60%; height:auto;">
+ <img src="../Nat20 Kämppis-sovelluksen arkkitehtuuri.png" alt="Kämppis-sovelluksen arkkitehtuuri" style="width:60%; height:auto;">
 </details>
 <p align="right">(<a href="#readme-alku">Takaisin alkuun</a>)</p>
 
