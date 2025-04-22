@@ -83,6 +83,7 @@ _Kämppis_ on rakennettu käyttämällä seuraavia teknologioita:
 ![App][app-logo]<br>
 [![TypeScript][typescript-logo]][typescript-url]
 [![React Native][react-native-logo]][react-native-url]
+[![Android Studio][android-studio-logo]][android-studio-url]
 
 ![Tietokanta][database-logo]<br>
 [![PostgreSQL][postgres-logo]][postgres-url]
@@ -353,6 +354,10 @@ Sovelluksen ovat toteuttaneet
 - Paul Carlson: [Phoolis](https://github.com/Phoolis)
 - Jesse Hellman: [Bminor87](https://github.com/Bminor87)
 - Julia Hämäläinen: [marttyyriroskis](https://github.com/marttyyriroskis)
+  
+<a href="https://github.com/HH-Nat20/kamppis-server/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=HH-Nat20/kamppis-server" alt="contrib.rocks image" />
+</a>
 
 Kehittäjien yhteystiedot löydät GitHub-profiileista.
 <p align="right">(<a href="#readme-alku">Takaisin alkuun</a>)</p>
@@ -396,6 +401,8 @@ Kehittäjien yhteystiedot löydät GitHub-profiileista.
 [docker-url]: https://www.docker.com/
 [expo-logo]: https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=fff
 [expo-url]: https://expo.dev/go
+[android-studio-logo]: https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white
+[android-studio-url]: https://developer.android.com/studio
 [bruno-logo]: https://img.shields.io/badge/Bruno-FF6C37?style=for-the-badge&logo=Bruno&logoColor=white
 [bruno-url]: https://www.usebruno.com/
 [vs-code-logo]: https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white&style=for-the-badge
