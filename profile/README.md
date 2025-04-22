@@ -1,10 +1,7 @@
 <a id="readme-alku"></a>
-<!-- SHIELDIT -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Issues][issues-shield]][issues-url]
 
 <div align="center">
-<img src="https://github.com/HH-Nat20/.github/blob/main/kamppis-app-icon.png" alt="Kämppis-sovelluksen logo" width="120px" height="120px">
+<img src="../kamppis-app-icon.png" alt="Kämppis-sovelluksen logo" width="120px" height="120px">
 <h1><i>Kämppis</i></h1>
 </div>
 
@@ -68,6 +65,9 @@ Kämppiksen versio 1.0 sisältää sovelluksen minimum viable product -version (
 - Admin-hallintapaneeli
 - Sovelluksen ilmoitukset
 - Toiminnallisuudet kohdassa <b>Valinnaiset vaatimukset</b>
+
+[![Back-end issues][back-end-issues-logo]][back-end-issues-url]
+[![App issues][app-issues-logo]][app-issues-url]
 <p align="right">(<a href="#readme-alku">Takaisin alkuun</a>)</p>
 
 ## Teknologiat
@@ -362,18 +362,24 @@ Kehittäjien yhteystiedot löydät GitHub-profiileista.
 <p align="right">(<a href="#readme-alku">Takaisin alkuun</a>)</p>
 
 <!-- LINKIT JA KUVAT -->
-[contributors-shield]: https://img.shields.io/github/contributors/HH-Nat20/kamppis-server.svg?style=for-the-badge
-[contributors-url]: https://img.shields.io/github/contributors/HH-Nat20/kamppis-server.svg?style=for-the-badge
-[issues-shield]: https://img.shields.io/github/issues/HH-Nat20/kamppis-server.svg?style=for-the-badge
-[issues-url]: https://github.com/HH-Nat20/kamppis-server/issues
-[back-end-logo]: https://img.shields.io/badge/BackEnd-000000?style=for-the-badge
+
+<!-- PROJEKTI JA REPOSITORIOT -->
 [back-end-repository-logo]: https://img.shields.io/badge/BackEnd%20Repository-000000?style=for-the-badge
 [back-end-repository-url]: https://github.com/HH-Nat20/kamppis-server
-[app-logo]: https://img.shields.io/badge/App-000000?style=for-the-badge
+[back-end-issues-logo]: https://img.shields.io/badge/BackEnd%20Open%20Issues%20And%20Bugs-000000?style=for-the-badge
+[back-end-issues-url]: https://github.com/HH-Nat20/kamppis-server/issues
 [app-repository-logo]: https://img.shields.io/badge/App%20Repository-000000?style=for-the-badge
 [app-repository-url]: https://github.com/HH-Nat20/kamppis-app
+[app-issues-logo]: https://img.shields.io/badge/App%20Open%20Issues%20And%20Bugs-000000?style=for-the-badge
+[app-issues-url]: https://github.com/HH-Nat20/kamppis-app/issues
+
+<!-- TEKSTILOGOT -->
+[app-logo]: https://img.shields.io/badge/App-000000?style=for-the-badge
+[back-end-logo]: https://img.shields.io/badge/BackEnd-000000?style=for-the-badge
 [database-logo]: https://img.shields.io/badge/Tietokanta-000000?style=for-the-badge
 [tools-logo]: https://img.shields.io/badge/Työkalut-000000?style=for-the-badge
+
+<!-- TEKNOLOGIAT JA TYÖKALUT -->
 [kotlin-logo]: https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white
 [kotlin-url]: https://kotlinlang.org/
 [spring-logo]: https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white
