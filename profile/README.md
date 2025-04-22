@@ -148,7 +148,6 @@ Näiden käyttäjätarinoiden toteutus muodostaa tuotteen demoversion.
 - kämpän sijainti<br>
 - kipuraja omalle osuudelle kämpän vuokrasta<br>
 - kämppisten määrä<br>
-<b>Resources</b>:	[Tähän mockup-kuva]
 </blockquote>
 </details>
 
@@ -161,7 +160,6 @@ Näiden käyttäjätarinoiden toteutus muodostaa tuotteen demoversion.
 - ikä<br>
 - sijainti<br>
 - lyhyt teaser-teksti itsestään<br>
-<b>Resources</b>: [Tähän mockup-kuva]
 </blockquote>
 </details>
 
@@ -170,7 +168,6 @@ Näiden käyttäjätarinoiden toteutus muodostaa tuotteen demoversion.
 <blockquote>
 <b>Description</b>:	Käyttäjänä haluan nähdä valitun käyttäjän koko profiilin, jotta voin arvioida, sopisimmeko kämppiksiksi.<br>
 <b>Acceptance Criteria</b>	Profiilin näkymä on selkeä ja sisältää olennaiset tiedot (esim. nimi, ikä, elämäntyyli, sijainti).<br>
-<b>Resources</b>: [Tähän mockup-kuva]
 </blockquote>
 </details>
 
@@ -179,7 +176,6 @@ Näiden käyttäjätarinoiden toteutus muodostaa tuotteen demoversion.
 <blockquote>
 <b>Description</b>:	Käyttäjänä haluan ilmaista kiinnostukseni tiettyä profiilikorttia kohtaan, jotta voin saada mahdollisuuden tutustua tarkemmin.<br>
 <b>Acceptance Criteria</b>:	Käyttäjä voi pyyhkäistä profiilikorttia oikealle tai vasemmalle. Jos molemmat osapuolet ovat pyyhkäisseet toistensa kortteja oikealle, luo sovellus yhteyden. Jos jompikumpi on pyyhkäissyt vasemmalle, sovellus ei luo yhteyttä.<br>
-<b>Resources</b>: [Tähän mockup-kuva]
 </blockquote>
 </details>
 
@@ -188,7 +184,6 @@ Näiden käyttäjätarinoiden toteutus muodostaa tuotteen demoversion.
 <blockquote>
 <b>Description</b>	Käyttäjänä haluan chatata potentiaalisen kämppäkaverin kanssa, jotta voimme keskustella tarkemmin ja selvittää, sopisimmeko yhteen. Kumpi tahansa osapuoli voi lopettaa chatin kesken milloin tahansa.<br>
 <b>Acceptance Criteria</b>:	Chat avautuu vain, jos molemmat käyttäjät ovat ilmaisseet kiinnostuksensa toisiinsa. Chattiin voi syöttää tekstiä, emojeita ja GIF-animaatioita.<br>
-<b>Resources</b>: [Tähän mockup-kuva]
 </blockquote>
 </details>
 
@@ -236,7 +231,6 @@ Näiden käyttäjätarinoiden sekä välttämättömien käyttäjätarinoiden to
 <blockquote>
 <b>Description</b>: Käyttäjänä haluan saada ilmoituksia, kun joku ilmaisee kiinnostuksensa profiiliani kohtaan, jotta tiedän, milloin on tarpeen tarkistaa sovellus.<br>
 <b>Acceptance Criteria</b>: Ilmoitukset ovat reaaliaikaisia ja sisältävät tarpeeksi tietoa, jotta käyttäjä tietää, mitä tapahtui.<br>
-<b>Resources</b>: [Tähän mockup-kuva]
 </blockquote>
 </details>
 
