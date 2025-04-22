@@ -359,6 +359,10 @@ Sovelluksen ovat toteuttaneet
 - Paul Carlson: [Phoolis](https://github.com/Phoolis)
 - Jesse Hellman: [Bminor87](https://github.com/Bminor87)
 - Julia Hämäläinen: [marttyyriroskis](https://github.com/marttyyriroskis)
+  
+<a href="https://github.com/HH-Nat20/kamppis-server/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=HH-Nat20/kamppis-server" alt="contrib.rocks image" />
+</a>
 
 Kehittäjien yhteystiedot löydät GitHub-profiileista.
 <p align="right">(<a href="#readme-alku">Takaisin alkuun</a>)</p>
