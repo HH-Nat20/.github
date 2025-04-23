@@ -40,7 +40,9 @@
 </details><br>
 
 ## Mikä _Kämppis_?
-_Kämppis_ on mobiilisovellus, joka yhdistää kämppiksiä etsivät ihmiset toistensa kanssa.
+_Kämppis_ on mobiilisovellus, joka yhdistää kämppiksiä ja kimppakämppähuoneita etsivät ihmiset toistensa kanssa.
+
+Projekti on toteutettu osana Haaga-Helia ammattikorkeakoulun [Ohjelmistoprojekti 2](https://opinto-opas.haaga-helia.fi/course_unit/SOF007AS3A) -opintojaksoa.
 <p align="right">(<a href="#readme-alku">Takaisin alkuun</a>)</p>
 
 ## Miksi _Kämppis_?
