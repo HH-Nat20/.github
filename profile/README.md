@@ -85,7 +85,6 @@ _Kämppis_ on rakennettu käyttämällä seuraavia teknologioita:
 ![App][app-logo]<br>
 [![TypeScript][typescript-logo]][typescript-url]
 [![React Native][react-native-logo]][react-native-url]
-[![Android Studio][android-studio-logo]][android-studio-url]
 
 ![Tietokanta][database-logo]<br>
 [![PostgreSQL][postgres-logo]][postgres-url]
@@ -95,6 +94,7 @@ _Kämppis_ on rakennettu käyttämällä seuraavia teknologioita:
 [![GitHub Actions][github-actions-logo]][github-actions-url]
 [![Docker][docker-logo]][docker-url]
 [![Expo Go][expo-logo]][expo-url]
+[![Android Studio][android-studio-logo]][android-studio-url]
 [![Bruno][bruno-logo]][bruno-url]
 [![Visual Studio Code][vs-code-logo]][vs-code-url]
 [![IntelliJ IDEA][intellij-idea-logo]][intellij-idea-url]
