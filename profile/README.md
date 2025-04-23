@@ -346,8 +346,15 @@ Näiden käyttäjätarinoiden toteutus on ylimääräistä extraa tuotteeseen.
 </details>
 <p align="right">(<a href="#readme-alku">Takaisin alkuun</a>)</p>
 
-## Käyttöehdot ja tietoturva
-[Tähän osio, jossa tietoturva, tietosuoja, GDPR, tietokannan suojaus]
+## Tietoturva ja laadunvarmistus
+Kämppis-sovellus on kehitetty käyttäjä edellä. Siksi tietoturvasta ja sovelluksen laadun varmistamisesta on huolehdittu erityisen hyvin.
+
+Kaikki sovelluksen syötteet validoidaan sekä käyttöliittymä- että palvelintasolla. Hibernate huolehtii omalta osaltaan syötteiden sanitaatiosta muuttamalla ne prepared statement -muotoon ennen käsittelyä tietokannassa. Sovellus käyttää HTTPS-protokollaa, ja käyttäjän kirjautumisessa on käytössä OAuth vanhenevan JWT-tokenin kera. Tämän lisäksi sovelluksen salaisuuksia ei tallenneta etärepositorioissa.
+
+Myös käyttäjän tietosuojaa on ajateltu. Keräämme käyttäjältä vain välttämättömät tiedot, kuten nimen, sähköpostin ja syntymäajan. Emme säilytä salasanoja lainkaan. Sovelluksen käyttäjä voi nähdä ja muokata tietojaan, mutta myös halutessaan pyytää niistä kopion tai poistaa kaikki tiedot. Tietojen poistamisessa on kyse monimutkaisemmasta toiminnosta kuin pelkkä soft delete - kolmenkymmenen päivän jälkeen poistopäätöksestä käyttäjän kaikki tiedot anonymisoidaan. Näin hän ei enää ole tunnistettavissa, mutta tietokanta ei kärsi esim. id-tietojen puuttumisesta.
+
+Olemme myös panostaneet laadunvarmistukseen. Projektin palvelinpuoli on katettu yksikkö- ja integrointitestein, ja siinä on käytetty hyväksi myös CI/CD-putken mahdollistavaa GitHub Actionsia. Lisätietoja kaikista projektiin rakennetuista testeistä löytyy [täältä]().
+
 <p align="right">(<a href="#readme-alku">Takaisin alkuun</a>)</p>
 
 ## Ota yhteyttä
