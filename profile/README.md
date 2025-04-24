@@ -62,7 +62,17 @@ _Kämppis_ tarjoaa kimppa-asumisesta kiinnostuneille käyttäjille vain mahdolli
 <p align="right">(<a href="#readme-alku">Takaisin alkuun</a>)</p>
 
 ## Roadmap
-Kämppiksen versio 1.0 sisältää sovelluksen minimum viable product -version (MVP). Lisättäviä toiminnallisuuksia ovat
+Kämppiksen versio 1.0 sisältää sovelluksen minimum viable product -version (MVP). Ensimmäinen julkaisuversio sisältää keskeiset ominaisuudet, jotka mahdollistavat käyttäjien profiilien luomisen, sopivan kämppiksen etsimisen ja yhteyden muodostamisen:
+
+- Profiilin luonti: Käyttäjät voivat luoda oman profiilinsa syöttämällä henkilökohtaisia tietoja, kuten iän, sukupuolen, elämäntyylin, kiinnostuksen kohteet, sijainnin ja lemmikit. Profiiliin voi lisätä myös kuvia.
+- Käyttäjä voi luoda oman käyttäjäprofiilin lisäksi kämpän, johon voi luoda huoneprofiileja vapaista huoneista, joilla voi etsiä kämppistä omaan vapaaseen kimppakämpän honeeseen. Kimppakämppään voi kutsua jo siellä asuvia kämppiksiä Kämppis-apin käyttäjiksi, jotta kaikki kämpässä asuvat ovat käyttäjän näkyvillä.
+- Hakukriteerit: Käyttäjä voi etsiä sopivia kämppisehdokkaita tai kimppakämpän huoneita määrittelemällä omat toiveensa esimerkiksi sukupuolen, iän, elämäntyylin, sijainnin ja vuokraosuuden suhteen.
+- Profiilien selaaminen: Käyttäjä näkee selailunäkymässä tiiviin yhteenvedon muista profiileista – mm. kuvan, iän, sijainnin ja lyhyen esittelytekstin.
+- Tarkempi profiilinäkymä: Valitsemalla profiilin, käyttäjä näkee kaikki syötetyt tiedot selkeästi esitettynä.
+- Kiinnostuksen ilmaisu: Profiilikortteja voi selata pyyhkäisemällä oikealle (kiinnostunut) tai vasemmalle (ei kiinnostunut). Jos molemmat käyttäjät ovat osoittaneet kiinnostuksensa, muodostuu yhteys.
+- Chat-toiminto: Kun yhteys on muodostettu, avautuu keskusteluikkuna, jossa käyttäjät voivat vaihtaa viestejä. Keskustelu voi olla useamman kuin kahden käyttäjän välillä, jos yhteys on muodostettu kimppakämpän huoneprofiilin ja sitä etsivän käyttäjän välille. Chatin voi lopettaa koska tahansa.
+
+Seuraaviin versioihin suunniteltuja toiminnallisuuksia ovat
 - OAuth-kirjautumisen laajentaminen (esim. Google-tilillä)
 - Admin-hallintapaneeli
 - Sovelluksen ilmoitukset
