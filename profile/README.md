@@ -76,6 +76,7 @@ Seuraaviin versioihin suunniteltuja toiminnallisuuksia ovat
 - OAuth-kirjautumisen laajentaminen (esim. Google-tilillä)
 - Admin-hallintapaneeli
 - Sovelluksen ilmoitukset
+- iOS-tuki
 - Toiminnallisuudet kohdassa <b>Valinnaiset vaatimukset</b>
 
 Katso tarkka lista suunnitelluista toiminnallisuuksista ja tunnetuista ongelmista:
