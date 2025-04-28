@@ -80,6 +80,7 @@ Seuraaviin versioihin suunniteltuja toiminnallisuuksia ovat
 
 Katso tarkka lista suunnitelluista toiminnallisuuksista ja tunnetuista ongelmista:
 
+[![Project issues][project-issues-logo]][project-issues-url]
 [![Back-end issues][back-end-issues-logo]][back-end-issues-url]
 [![App issues][app-issues-logo]][app-issues-url]
 <p align="right">(<a href="#readme-alku">Takaisin alkuun</a>)</p>
@@ -393,6 +394,8 @@ Kehittäjien yhteystiedot löydät GitHub-profiileista.
 [app-repository-url]: https://github.com/HH-Nat20/kamppis-app
 [app-issues-logo]: https://img.shields.io/badge/App%20Open%20Issues%20And%20Bugs-000000?style=for-the-badge
 [app-issues-url]: https://github.com/HH-Nat20/kamppis-app/issues
+[project-issues-logo]: https://img.shields.io/badge/Project%20Open%20Issues-000000?style=for-the-badge
+[project-issues-url]: https://github.com/HH-Nat20/.github/issues
 
 <!-- TEKSTILOGOT -->
 [app-logo]: https://img.shields.io/badge/App-000000?style=for-the-badge
